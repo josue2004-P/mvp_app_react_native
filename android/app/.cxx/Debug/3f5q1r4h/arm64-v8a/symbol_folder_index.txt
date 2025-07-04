@@ -1,0 +1,1 @@
+/home/josue/Escritorio/MiApp/android/app/build/intermediates/cxx/Debug/3f5q1r4h/obj/arm64-v8a
