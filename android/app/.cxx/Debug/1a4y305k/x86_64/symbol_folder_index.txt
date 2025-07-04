@@ -1,0 +1,1 @@
+/home/josue/Escritorio/mvp_app_react_native/android/app/build/intermediates/cxx/Debug/1a4y305k/obj/x86_64

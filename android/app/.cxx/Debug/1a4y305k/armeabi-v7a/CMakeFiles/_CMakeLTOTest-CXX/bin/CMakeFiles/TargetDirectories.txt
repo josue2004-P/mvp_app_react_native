@@ -1,0 +1,4 @@
+/home/josue/Escritorio/mvp_app_react_native/android/app/.cxx/Debug/1a4y305k/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/home/josue/Escritorio/mvp_app_react_native/android/app/.cxx/Debug/1a4y305k/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/josue/Escritorio/mvp_app_react_native/android/app/.cxx/Debug/1a4y305k/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/josue/Escritorio/mvp_app_react_native/android/app/.cxx/Debug/1a4y305k/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
